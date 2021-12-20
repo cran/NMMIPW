@@ -1,0 +1,15 @@
+73d6398468fb00371be0c710a0c42325 *DESCRIPTION
+6be9e10be2d2d15114cc262356b1d52f *NAMESPACE
+e1b54ca9c581fa9ef9a9d859319fc624 *R/auxiliary.R
+1861ffdbe04430c9253b0fab526f7d93 *R/nmmipw.R
+5508512ac5fb769b37344ca400e61374 *R/zzz.R
+ec0976c1565d38fac2da72996bf0ce81 *man/PS.Rd
+6783275718318447889c557b3d45658c *man/link_func.Rd
+cd47388b9d61e0c531609d972a34965a *man/link_func_grad.Rd
+929e259ae302dffecef7266637993840 *man/link_func_grad_vec.Rd
+4b90bba31bc0aa746ec91dd17b4b3d10 *man/link_func_vec.Rd
+45f31052d537d12f2f7b299dc038431f *man/nmm_fit.Rd
+d12c21bbfa384c9efd9974706f3e08dd *man/nmm_preprocessing.Rd
+4564147ab10ea7eea0bfe63121b98b23 *man/prop_compute.Rd
+fa9eaf78ad8f7c4842a2609a69c160d9 *man/regress_fit.Rd
+232bb0cd5d566d830edfcdff147344f8 *man/summary.NMMIPW.Rd
